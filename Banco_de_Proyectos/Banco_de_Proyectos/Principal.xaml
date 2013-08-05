@@ -1,0 +1,93 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" x:Name="Principal" mc:Ignorable="d" x:Class="Banco_de_Proyectos.MainWindow"
+        Title="MainWindow" Height="733.505" Width="737.371" WindowStyle="None" AllowsTransparency="True">
+	<Window.Resources>
+		<Style x:Key="btnclose" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<Image x:Name="image" Source="close_window-128.png" Stretch="Fill" Margin="-290,-331,372,413"/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsCancel" Value="False"/>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True">
+								<Setter Property="OpacityMask" TargetName="image" Value="#FF6E6E6E"/>
+							</Trigger>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="cerrarbtn" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<Rectangle x:Name="rectangle" Fill="#B2878787" Stroke="#80807C7C" Opacity="0"/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True">
+								<Setter Property="Opacity" TargetName="rectangle" Value="0.995"/>
+								<Setter Property="Fill" TargetName="rectangle" Value="#C0878787"/>
+							</Trigger>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+	</Window.Resources>
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="DragDrop.DragOver" SourceName="btncerrar"/>
+    </Window.Triggers>
+    <Window.Background>
+        <LinearGradientBrush EndPoint="262.5,350" MappingMode="Absolute" StartPoint="262.5,0">
+            <LinearGradientBrush.RelativeTransform>
+                <TransformGroup>
+                    <ScaleTransform CenterY="0.5" CenterX="0.8"/>
+                    <SkewTransform CenterY="0.5" CenterX="0.8" AngleY="1" AngleX="56"/>
+                    <RotateTransform Angle="129.094" CenterY="0.5" CenterX="0.8"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </LinearGradientBrush.RelativeTransform>
+            <GradientStop Color="#FF00001F" Offset="0.19"/>
+            <GradientStop Color="#FF006666" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid x:Name="Principal1" IsManipulationEnabled="True">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="644*"/>
+            <ColumnDefinition Width="93*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="btncerrar" Content="Cerrar" HorizontalAlignment="Left" Height="47" Margin="5,97,0,0" VerticalAlignment="Top" Width="65" BorderBrush="White" Click="Button_Click" DragOver="button_DragOver" FontSize="18.667" Foreground="White" Grid.Column="1">
+            <Button.Background>
+                <ImageBrush/>
+            </Button.Background>
+        </Button>
+        <Label Content="Proyectos Actuales" HorizontalAlignment="Left" Height="87" Margin="10,10,0,0" VerticalAlignment="Top" Width="639" FontSize="50" FontFamily="Lucida Calligraphy" FontWeight="Bold" Grid.ColumnSpan="2"/>
+        <DataGrid x:Name="gvUsuarios" HorizontalAlignment="Left" Height="621" Margin="10,102,0,0" VerticalAlignment="Top" Width="610" CanUserResizeRows="False" Background="#FFF0F0F0">
+            <DataGrid.Columns>
+                <DataGridCheckBoxColumn Binding="{x:Null}" ClipboardContentBinding="{x:Null}" Header="Matricula" HeaderStringFormat="Matrícula"/>
+                <DataGridTextColumn Binding="{x:Null}" ClipboardContentBinding="{x:Null}" Header="Folio" HeaderStringFormat="Folio" Foreground="#FFB9FF00"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label x:Name="btnAcceder" Content="Acceder" HorizontalAlignment="Left" Height="42" Margin="637,265,0,0" VerticalAlignment="Top" Width="82" FontSize="18" FontFamily="Book Antiqua" FontWeight="Bold" Grid.ColumnSpan="2"/>
+        <Label x:Name="btnAlumno" Content="Registrar &#xD;&#xA;Alumno" HorizontalAlignment="Left" Height="61" Margin="637,374,0,0" VerticalAlignment="Top" Width="93" FontSize="18" FontFamily="Book Antiqua" FontWeight="Bold" Grid.ColumnSpan="2"/>
+        <Label x:Name="btnProyecto" Content="Registrar &#xD;&#xA;Proyecto" HorizontalAlignment="Left" Height="65" Margin="634,532,0,0" VerticalAlignment="Top" Width="93" FontSize="18" FontFamily="Book Antiqua" FontWeight="Bold" Background="#00000000" Foreground="White" Grid.ColumnSpan="2"/>
+        <Image Margin="67,4,5,709" Source="close_window-48.png" Stretch="Fill" Grid.Column="1"/>
+        <Image Margin="40,4,32,709" Source="minimize_window-48.png" Stretch="Fill" Grid.Column="1"/>
+        <Button x:Name="btnclose" Content="Button" HorizontalAlignment="Left" Height="22" Margin="67,4,0,0" Style="{DynamicResource cerrarbtn}" VerticalAlignment="Top" Width="21" Click="btnclose_Click" BorderThickness="0,1,1,1" Grid.Column="1"/>
+        <Button x:Name="btnmini" Content="Button" HorizontalAlignment="Left" Height="22" Margin="40,4,0,0" Style="{DynamicResource cerrarbtn}" VerticalAlignment="Top" Width="22" Click="btnmini_Click" Grid.Column="1"/>
+
+    </Grid>
+</Window>

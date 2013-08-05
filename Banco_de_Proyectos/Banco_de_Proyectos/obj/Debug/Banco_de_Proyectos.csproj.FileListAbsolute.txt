@@ -1,0 +1,71 @@
+C:\Users\Bere\Documents\Visual Studio 2012\Projects\Banco_de_Proyectos\Banco_de_Proyectos\bin\Debug\Banco_de_Proyectos.exe.config
+C:\Users\Bere\Documents\Visual Studio 2012\Projects\Banco_de_Proyectos\Banco_de_Proyectos\bin\Debug\Banco_de_Proyectos.exe
+C:\Users\Bere\Documents\Visual Studio 2012\Projects\Banco_de_Proyectos\Banco_de_Proyectos\bin\Debug\Banco_de_Proyectos.pdb
+C:\Users\Bere\Documents\Visual Studio 2012\Projects\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Principal.baml
+C:\Users\Bere\Documents\Visual Studio 2012\Projects\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Logg.baml
+C:\Users\Bere\Documents\Visual Studio 2012\Projects\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Principal.g.cs
+C:\Users\Bere\Documents\Visual Studio 2012\Projects\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Logg.g.cs
+C:\Users\Bere\Documents\Visual Studio 2012\Projects\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\App.g.cs
+C:\Users\Bere\Documents\Visual Studio 2012\Projects\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Banco_de_Proyectos_MarkupCompile.cache
+C:\Users\Bere\Documents\Visual Studio 2012\Projects\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Banco_de_Proyectos.g.resources
+C:\Users\Bere\Documents\Visual Studio 2012\Projects\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Banco_de_Proyectos.Properties.Resources.resources
+C:\Users\Bere\Documents\Visual Studio 2012\Projects\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Banco_de_Proyectos.csproj.GenerateResource.Cache
+C:\Users\Bere\Documents\Visual Studio 2012\Projects\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Banco_de_Proyectos.exe
+C:\Users\Bere\Documents\Visual Studio 2012\Projects\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Banco_de_Proyectos.pdb
+C:\Users\Bere\Documents\Visual Studio 2012\Projects\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Banco_de_Proyectos.csprojResolveAssemblyReference.cache
+C:\Users\Bere\Documents\Visual Studio 2012\Projects\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Iproyecto.baml
+C:\Users\Bere\Documents\Visual Studio 2012\Projects\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Ralumno.baml
+C:\Users\Bere\Documents\Visual Studio 2012\Projects\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Rproyecto.baml
+C:\Users\Bere\Documents\Visual Studio 2012\Projects\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Iproyecto.g.cs
+C:\Users\Bere\Documents\Visual Studio 2012\Projects\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Ralumno.g.cs
+C:\Users\Bere\Documents\Visual Studio 2012\Projects\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Rproyecto.g.cs
+C:\Users\Bere\Documents\Visual Studio 2012\Projects\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Bere\Documents\Visual Studio 2012\Projects\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Banco_de_Proyectos_MarkupCompile.lref
+C:\Users\Bere\Documents\Visual Studio 2012\Projects\Banco_de_Proyectos\Banco_de_Proyectos\bin\Debug\ADEstandarV45.dll
+C:\Users\Bere\Documents\Visual Studio 2012\Projects\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\App.baml
+C:\Users\Vanessa\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\bin\Debug\Banco_de_Proyectos.exe.config
+C:\Users\Vanessa\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Banco_de_Proyectos.exe
+C:\Users\Vanessa\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Banco_de_Proyectos.pdb
+C:\Users\Bere\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\bin\Debug\Banco_de_Proyectos.exe.config
+C:\Users\Bere\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Banco_de_Proyectos.exe
+C:\Users\Bere\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Banco_de_Proyectos.pdb
+C:\Users\Bere\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Banco_de_Proyectos.csprojResolveAssemblyReference.cache
+C:\Users\Bere\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Iproyecto.baml
+C:\Users\Bere\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Principal.baml
+C:\Users\Bere\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Logg.baml
+C:\Users\Bere\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Ralumno.baml
+C:\Users\Bere\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Rproyecto.baml
+C:\Users\Bere\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Iproyecto.g.cs
+C:\Users\Bere\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Principal.g.cs
+C:\Users\Bere\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Logg.g.cs
+C:\Users\Bere\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Ralumno.g.cs
+C:\Users\Bere\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Rproyecto.g.cs
+C:\Users\Bere\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\App.g.cs
+C:\Users\Bere\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Bere\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Banco_de_Proyectos_MarkupCompile.cache
+C:\Users\Bere\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Banco_de_Proyectos_MarkupCompile.lref
+C:\Users\Bere\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\bin\Debug\Banco_de_Proyectos.exe
+C:\Users\Bere\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\bin\Debug\Banco_de_Proyectos.pdb
+C:\Users\Bere\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\bin\Debug\ADEstandarV45.dll
+C:\Users\Bere\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\App.baml
+C:\Users\Bere\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Banco_de_Proyectos.g.resources
+C:\Users\Bere\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Banco_de_Proyectos.Properties.Resources.resources
+C:\Users\Bere\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Banco_de_Proyectos.csproj.GenerateResource.Cache
+C:\Users\salmi_000\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\bin\Debug\Banco_de_Proyectos.exe.config
+C:\Users\salmi_000\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Banco_de_Proyectos.exe
+C:\Users\salmi_000\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Banco_de_Proyectos.pdb
+C:\Users\Vanessa\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Banco_de_Proyectos.csprojResolveAssemblyReference.cache
+C:\Users\Vanessa\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Iproyecto.baml
+C:\Users\Vanessa\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Principal.baml
+C:\Users\Vanessa\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Logg.baml
+C:\Users\Vanessa\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Ralumno.baml
+C:\Users\Vanessa\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Rproyecto.baml
+C:\Users\Vanessa\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Iproyecto.g.cs
+C:\Users\Vanessa\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Principal.g.cs
+C:\Users\Vanessa\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Logg.g.cs
+C:\Users\Vanessa\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Ralumno.g.cs
+C:\Users\Vanessa\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Rproyecto.g.cs
+C:\Users\Vanessa\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\App.g.cs
+C:\Users\Vanessa\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Vanessa\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Banco_de_Proyectos_MarkupCompile.cache
+C:\Users\Vanessa\Dropbox\Banco_De_Proyectos\Banco_de_Proyectos\Banco_de_Proyectos\obj\Debug\Banco_de_Proyectos_MarkupCompile.lref

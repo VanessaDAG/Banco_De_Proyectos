@@ -1,0 +1,41 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d"
+	x:Class="Banco_de_Proyectos.Window1"
+	x:Name="Window"
+	Title="Window1"
+	Width="277" Height="227" WindowStyle="None" BorderBrush="#FF00FFE8" AllowsTransparency="True" Loaded="Window_Loaded">
+
+	<Grid x:Name="Logg">
+		<Grid.Background>
+			<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+				<LinearGradientBrush.RelativeTransform>
+					<TransformGroup>
+						<ScaleTransform CenterY="0.5" CenterX="0.5"/>
+						<SkewTransform CenterY="0.5" CenterX="0.5"/>
+						<RotateTransform Angle="122.347" CenterY="0.5" CenterX="0.5"/>
+						<TranslateTransform/>
+					</TransformGroup>
+				</LinearGradientBrush.RelativeTransform>
+				<GradientStop Color="#FF00001F" Offset="0.176"/>
+				<GradientStop Color="#FF006666" Offset="1"/>
+			</LinearGradientBrush>
+		</Grid.Background>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition/>
+		</Grid.ColumnDefinitions>
+		<Button x:Name="btnaccesar" Content="Button" HorizontalAlignment="Left" Height="29" Margin="105,161,0,0" VerticalAlignment="Top" Width="70" Background="#00FF8000" Opacity="0.695" BorderThickness="0" Foreground="White" FontSize="16" FontWeight="Bold" FontStyle="Italic" FontFamily="Footlight MT Light" Click="Button_Click" Cursor="None">
+			<Button.BorderBrush>
+				<RadialGradientBrush>
+					<GradientStop Color="#00000000" Offset="0"/>
+					<GradientStop Color="White" Offset="1"/>
+				</RadialGradientBrush>
+			</Button.BorderBrush>
+		</Button>
+		<Label Content="Usuario" HorizontalAlignment="Left" Margin="40,33,0,0" VerticalAlignment="Top" Foreground="White" FontWeight="Bold" FontSize="14"/>
+		<Label Content="Constraseña" HorizontalAlignment="Left" Margin="10,75,0,0" VerticalAlignment="Top" Foreground="White" FontWeight="Bold" FontSize="14"/>
+		<TextBox x:Name="txtuser" HorizontalAlignment="Left" Height="20" Margin="105,37,0,0" TextWrapping="Wrap" Text="Usuario" VerticalAlignment="Top" Width="113"/>
+		<TextBox x:Name="txtpass" HorizontalAlignment="Left" Height="20" Margin="105,79,0,0" TextWrapping="Wrap" Text="Contraseña" VerticalAlignment="Top" Width="113"/>
+	</Grid>
+</Window>
